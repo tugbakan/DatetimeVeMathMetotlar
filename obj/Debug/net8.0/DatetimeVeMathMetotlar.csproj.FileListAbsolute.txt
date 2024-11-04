@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\bin\Debug\net8.0\DatetimeVeMathMetotlar.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\bin\Debug\net8.0\DatetimeVeMathMetotlar.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\bin\Debug\net8.0\DatetimeVeMathMetotlar.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\bin\Debug\net8.0\DatetimeVeMathMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\bin\Debug\net8.0\DatetimeVeMathMetotlar.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\refint\DatetimeVeMathMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\DatetimeVeMathMetotlar.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DatetimeVeMathMetotlar\obj\Debug\net8.0\ref\DatetimeVeMathMetotlar.dll
